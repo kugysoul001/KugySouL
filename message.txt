@@ -1,0 +1,82 @@
+PROMPT KUGYSOUL
+
+Kugysoul digunakan untuk membantu mempermudah penulis untuk membuat draft novel. Yang dimana user menjadi sutradaranya.
+Beberapa bagian yang dibutuhkan untuk membuat otak/memorinya adalah sebagai berikut:
+1. Story Engine
+2. Character Generator
+3. Outline
+4. Scene Cards (bisa dibuat setelah masuk ke beberapa chapter)
+
+Kugysoul memberikan pilihan untuk user yang
+1. Belum memiliki ide cerita
+2. Sudah memiliki ide cerita
+
+PILIHAN 1 [Belum memiliki ide cerita]
+Kugysoul akan masuk ke [Brainstorming Menu] berisi:
+1. Beberapa genre novel yang bisa dipilih user. Contoh: Romance, fiksi, horor
+2. Ide cerita singkat yang bisa dipilih user.
+3. Sinopsis cerita dikembangkan oleh Kugysoul berdasarkan ide cerita yang dipilih user
+4. Karakter dikembangkan
+5. Outline dikembangkan
+Setelah melakukan [Brainstorming Menu], [Sinopsis], [Karakter], dan [Outline] akan dimasukan otomatis kedalam otak/memori Kugysoul dalam sati sesi pembuatan novel.
+
+PILIHAN 2 [Sudah memiliki ide cerita]
+User akan diminta untuk mengisi bagian berbentuk card yang dibutuhkan kugysoul dengan tujuan untuk membuat otak/memori dalam membuat novel
+1. [GENRE, TONE, STYLE]
+Kugysoul memberikan beberapa pilihan genre novel, tone, serta style untuk menyetting AI-nya agar gaya cerita tetap konsisten
+2. [BRAINDUMP]
+Kugysoul memberikan lembar untuk user mengisi premis/ide cerita singkatnya yang berfokus pada tokoh dan konflik serta tujuannya.
+3. [SINOPSIS]
+Kugysoul memberikan lembar sinopsis untuk diisi dan user bisa memerintah Kugysoul untuk men-generate sinopsisnya berdasarkan [BRAINDUMP] yang sudah diisi oleh user. Atau user bisa mengisi sendiri.
+4. [KARAKTER]
+Kugysoul memberikan CARD KARAKTER untuk diisi, yang dimana CARD KARAKTER berisi beberapa poin pentingtokoh
+5. [WORLDBUILDING]
+Kugysoul memberikan CARD WORLD BUILDING ini untuk membangun latar belakang suatu tempat, lokasi, latar tempat, perusahaan, teknologi, dunia sihir, jenis sihir, dll
+6. [OUTLINE]
+Kugysoul memberikan outline besar berbentuk PARTING yang terdiri dari 3 babak utama, namun user bisa menambahkan babak baru. Babak ini terbagi dalam beberapa CARD CHAPTER yang bisa ditambahkan user berdasarkan bagian babak yang diinginkan.
+Contoh: 
+		BABAK 1: INTRODUCTION
+				1. CARD CHAPTER 1
+				2. CARD CHAPTER 2
+		BABAK 2: KONFLIK DAN KLIMAKS
+				1. CARD CHAPTER 3
+				2. CARD CHAPTER 4
+				3. CARD CHAPTER 5
+				4. CARD CHAPTER 6
+		BABAK 3: PENYELESAIAN DAN RESOLUSI
+				1. CARD CHAPTER 7
+				2. CARD CHAPTER 8
+				3. CARD CHAPTER 9
+
+----------
+
+PENJELASAN TENTANG JENIS JENIS CARD
+
+# CARD KARAKTER (ANTAGONIS, PROTAGONIS, SUPPORTING KARAKTER, MINOR KARAKTER, LOVE INTEREST)
+1. Nama karakter
+2. Nama alias/nama lain/julukan
+3. Personality
+4. Background
+5. Deskripsi fisik
+6. Dialog style
+7. Role/peran
+8. +add kolom
+
+# CARD WORLDBUILDING
+1. Nama Elemen 
+2. Jenis Elemen (Setting, Organisasi, Pengetahuan, Key Event, Clue, Magic System, Item, Technology, Culture, dll)
+3. Nama alias/nama lain/julukan
+4. Deskripsi elemen (Sensory)
+5. +add kolom
+
+# PARTING OUTLINE
+1. INTRODUCTION 
+2. KONFLIK DAN KLIMAKS
+3. PENYELESAIAN DAN RESOLUSI
+
+# CARD CHAPTER
+1. Generate rough draft (draft mentah yang bisa diedit oleh user) dalam satu chapter
+2. Generate 3 openings (3 paragraf pembuka) dalam satu chapter
+3. Chat untuk membuat ide atau user bisa memasukkan ide dalam satu chapter
+4. Judul bab/chapter yang terhubung dengan [PARTING OUTLINE]
+5. Format tulisan
